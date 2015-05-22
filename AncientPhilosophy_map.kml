@@ -16,7 +16,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/30_DiogenesofSinope_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/30_DiogenesofSinope_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -36,7 +36,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/35_MarcusAurelius_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/35_MarcusAurelius_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -46,7 +46,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/22_Aristotle_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/22_Aristotle_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -146,7 +146,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/34_SenecatheYounger_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/34_SenecatheYounger_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -156,7 +156,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/36_Plotinus_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/36_Plotinus_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -246,7 +246,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/21_Plato_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/21_Plato_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -256,7 +256,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/32_Epicurus_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/32_Epicurus_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -276,7 +276,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/31_Pyrrho_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/31_Pyrrho_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -286,7 +286,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/20_Socrates_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/20_Socrates_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -316,7 +316,7 @@
 		<IconStyle>
 			<scale>10</scale>
 			<Icon>
-				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/33_ZenoofCitium_ps.png</href>
+				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/33_ZenoofCitium_m.png</href>
 			</Icon>
 		</IconStyle>
 		<ListStyle>
@@ -663,7 +663,7 @@
 				<href>https://raw.githubusercontent.com/Kenyat1989/philosophy_map/master/00_AncientPhilosophy/00_AncientPhilosophy_timeline.png</href>
 			</Icon>
 			<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
-			<screenXY x="25" y="95" xunits="pixels" yunits="pixels"/>
+			<screenXY x="25" y="70" xunits="pixels" yunits="pixels"/>
 			<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
 			<size x="0" y="0" xunits="pixels" yunits="pixels"/>
 		</ScreenOverlay>
@@ -672,13 +672,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>23.75829815914368</longitude>
-		    <latitude>37.95579948730298</latitude>
-		    <altitude>0</altitude>
-		    <heading>1.198665852609984</heading>
-		    <tilt>1.029075210244911</tilt>
-		    <range>27960.03526524863</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>23.67155160758934</longitude>
+				<latitude>37.97649542399385</latitude>
+				<altitude>0</altitude>
+				<heading>1.145343195091827</heading>
+				<tilt>1.029308523216781</tilt>
+				<range>27960.03526524699</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_00_Thales_ps</styleUrl>
 		  <Point>
@@ -693,13 +693,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>23.73599823831487</longitude>
-		    <latitude>37.9775018116332</latitude>
-		    <altitude>0</altitude>
-		    <heading>0.004018228214493451</heading>
-		    <tilt>0.7876805291352386</tilt>
-		    <range>9093.936919535958</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>23.71203507768339</longitude>
+				<latitude>37.97929896751957</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01072652148728985</heading>
+				<tilt>0.7878592944997637</tilt>
+				<range>9093.936919532181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_01_Anaximander_ps</styleUrl>
 		  <Point>
@@ -714,13 +714,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>25.39925811469215</longitude>
-		    <latitude>40.78549576928362</latitude>
-		    <altitude>0</altitude>
-		    <heading>1.238721876616839</heading>
-		    <tilt>0</tilt>
-		    <range>768135.8385577085</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>23.83765789912047</longitude>
+				<latitude>41.14637778060837</latitude>
+				<altitude>0</altitude>
+				<heading>0.2104689030773475</heading>
+				<tilt>0</tilt>
+				<range>768135.8385577056</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_02_Democritus_ps</styleUrl>
 		  <Point>
@@ -735,13 +735,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>27.3400832748811</longitude>
-		    <latitude>37.94084268946731</latitude>
-		    <altitude>0</altitude>
-		    <heading>0.0005119261149693861</heading>
-		    <tilt>0</tilt>
-		    <range>4025.171763242886</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>27.33273016311321</longitude>
+				<latitude>37.94069753423622</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004009141153692725</heading>
+				<tilt>0</tilt>
+				<range>4025.171763241971</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_03_Heraclitus_ps</styleUrl>
 		  <Point>
@@ -756,13 +756,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>15.15422200000002</longitude>
-		    <latitude>40.15952800000001</latitude>
-		    <altitude>0</altitude>
-		    <heading>1.431249606658582e-14</heading>
-		    <tilt>0</tilt>
-		    <range>1000.000000001696</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>15.128862305386</longitude>
+				<latitude>40.15877051755368</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01661795276282005</heading>
+				<tilt>2.472707218425541</tilt>
+				<range>11761.72585177498</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_04_Parmenides_ps</styleUrl>
 		  <Point>
@@ -777,13 +777,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>23.73599823831487</longitude>
-		    <latitude>37.97750181163322</latitude>
-		    <altitude>0</altitude>
-		    <heading>0.004018228204096217</heading>
-		    <tilt>0.7877699067609015</tilt>
-		    <range>9093.936919535374</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>23.71627497645138</longitude>
+				<latitude>37.98052553689066</latitude>
+				<altitude>0</altitude>
+				<heading>-0.008118566291647141</heading>
+				<tilt>0.786071536545332</tilt>
+				<range>9094.225033448412</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_10_Protagoras_ps</styleUrl>
 		  <Point>
@@ -798,13 +798,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>23.68504526731149</longitude>
-		    <latitude>37.97256976852712</latitude>
-		    <altitude>0</altitude>
-		    <heading>-0.02678552507464672</heading>
-		    <tilt>2.611893622148411</tilt>
-		    <range>12831.47027055528</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>23.70126741335827</longitude>
+				<latitude>37.97966669099979</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01680459743728636</heading>
+				<tilt>2.612477907630072</tilt>
+				<range>12831.47027055209</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_20_Socrates_ps</styleUrl>
 		  <Point>
@@ -819,13 +819,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>23.68504526731149</longitude>
-		    <latitude>37.97256976852712</latitude>
-		    <altitude>0</altitude>
-		    <heading>-0.02678552507464672</heading>
-		    <tilt>2.611893622148411</tilt>
-		    <range>12831.47027055528</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>23.70365403386168</longitude>
+				<latitude>37.981393123221</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01533662129230045</heading>
+				<tilt>2.612560659665579</tilt>
+				<range>12908.22567129957</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_21_Plato_ps</styleUrl>
 		  <Point>
@@ -840,13 +840,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>23.49999991762429</longitude>
-		    <latitude>40.33333293465572</latitude>
-		    <altitude>0</altitude>
-		    <heading>-5.584571689532489e-08</heading>
-		    <tilt>0</tilt>
-		    <range>1008.901401736618</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>23.49999991762429</longitude>
+				<latitude>40.33333293465572</latitude>
+				<altitude>0</altitude>
+				<heading>-5.584571689532489e-08</heading>
+				<tilt>0</tilt>
+				<range>1008.901401736618</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_22_Aristotle_ps</styleUrl>
 		  <Point>
@@ -861,13 +861,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>35.15168518508765</longitude>
-		    <latitude>42.02553399333192</latitude>
-		    <altitude>0</altitude>
-		    <heading>0.001145610231327212</heading>
-		    <tilt>4.35484243546735</tilt>
-		    <range>2630.363728743053</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>35.1462337802892</longitude>
+				<latitude>42.02550848482233</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002501317096632696</heading>
+				<tilt>4.238733468792322</tilt>
+				<range>2703.067437663314</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_30_DiogenesofSinope_ps</styleUrl>
 		  <Point>
@@ -882,13 +882,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>21.50000152448612</longitude>
-		    <latitude>37.66666749871791</latitude>
-		    <altitude>0</altitude>
-		    <heading>-7.493571460727304e-08</heading>
-		    <tilt>0</tilt>
-		    <range>1024.152055521025</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>21.49810765905973</longitude>
+				<latitude>37.66656770710642</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001164370968304162</heading>
+				<tilt>0</tilt>
+				<range>1342.249860312837</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_31_Pyrrho_ps</styleUrl>
 		  <Point>
@@ -903,13 +903,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>26.83330970404748</longitude>
-		    <latitude>37.75001508874683</latitude>
-		    <altitude>0</altitude>
-		    <heading>9.793079433559559e-06</heading>
-		    <tilt>0</tilt>
-		    <range>1317.033440122238</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>26.77924348078711</longitude>
+				<latitude>37.7429816525702</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0323848065683132</heading>
+				<tilt>0</tilt>
+				<range>29744.69232324849</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_32_Epicurus_ps</styleUrl>
 		  <Point>
@@ -924,13 +924,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>33.42925136157049</longitude>
-		    <latitude>35.12665840032771</latitude>
-		    <altitude>0</altitude>
-		    <heading>1.729061219244842e-05</heading>
-		    <tilt>0</tilt>
-		    <range>195229.3551671267</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>33.09783153509945</longitude>
+				<latitude>35.12881086446651</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1864568409143808</heading>
+				<tilt>0</tilt>
+				<range>203440.3959495847</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_33_ZenoofCitium_ps</styleUrl>
 		  <Point>
@@ -945,13 +945,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>-4.778888636447154</longitude>
-		    <latitude>37.88472197520147</latitude>
-		    <altitude>0</altitude>
-		    <heading>1.093930433216077e-08</heading>
-		    <tilt>0</tilt>
-		    <range>1031.155208081227</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>-4.79189680477962</longitude>
+				<latitude>37.88249317201586</latitude>
+				<altitude>0</altitude>
+				<heading>-0.008151293291185444</heading>
+				<tilt>0</tilt>
+				<range>8755.501922606998</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_34_SenecatheYounger_ps</styleUrl>
 		  <Point>
@@ -966,13 +966,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>12.49616010378906</longitude>
-		    <latitude>41.90273750679707</latitude>
-		    <altitude>0</altitude>
-		    <heading>-9.377832575457036e-06</heading>
-		    <tilt>0</tilt>
-		    <range>45355.5853513808</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>12.39269483079635</longitude>
+				<latitude>41.8824864747391</latitude>
+				<altitude>0</altitude>
+				<heading>-0.06383144726019484</heading>
+				<tilt>0</tilt>
+				<range>56564.98524691071</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_35_MarcusAurelius_ps</styleUrl>
 		  <Point>
@@ -987,13 +987,13 @@
 		<Placemark>
 		  <name></name>
 		  <LookAt>
-		    <longitude>30.80249799999997</longitude>
-		    <latitude>26.82055300000002</latitude>
-		    <altitude>0</altitude>
-		    <heading>-4.770832022195273e-14</heading>
-		    <tilt>0</tilt>
-		    <range>1614178.955025831</range>
-		    <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				<longitude>27.41608851807201</longitude>
+				<latitude>26.94678212195965</latitude>
+				<altitude>0</altitude>
+				<heading>-0.9477579910430415</heading>
+				<tilt>0</tilt>
+				<range>1772311.877911811</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		  </LookAt>
 		  <styleUrl>#msn_36_Plotinus_ps</styleUrl>
 		  <Point>
